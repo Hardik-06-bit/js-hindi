@@ -1,2 +1,2 @@
-# js-hindi
+# JavaScript 
 javascript vs code repo
